@@ -1,0 +1,3 @@
+Projekat radile Katarina Lazarevic 18225 i Tijana Ilic 18182.
+Nismo uspele da predamo zipovan fajl na CS-u zbog velicine. Nadamo se da cete uvaziti link do repozitorijuma
+na githabu na kome se nalazi ceo projekat.
